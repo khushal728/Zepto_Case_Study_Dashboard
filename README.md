@@ -45,7 +45,7 @@ Track overall performance, identify top-performing cities, brands, and observe m
 - **Best Sales Day:** Wednesday
 - **Monthly Trends:** Strongest revenue in March and April
 
-📸 **[Insert Screenshot Here]**
+📸 ![ Screenshot ](https://github.com/khushal728/Zepto_Case_Study_Dashboard/blob/main/Sales%20page.png)
 
 ---
 
@@ -77,7 +77,7 @@ Analyze product performance, monthly sales growth, and delivery partner ratings.
 - **MoM Sales Growth:** March saw 16.4% spike
 - **All Delivery Partners:** Avg. rating of 3.03
 
-📸 **[Insert Screenshot Here]**
+📸 ![Insert Screenshot](https://github.com/khushal728/Zepto_Case_Study_Dashboard/blob/main/Products%20page.png)
 
 ---
 
@@ -93,7 +93,7 @@ Track transaction success rate, payment preferences, and state-wise performance.
 - **Top Payment Methods:** Debit Card & COD
 - **Top Products by AOV:** A Biscuits, A Juice
 
-📸 **[Insert Screenshot Here]**
+📸 ![ Screenshot ](https://github.com/khushal728/Zepto_Case_Study_Dashboard/blob/main/Transactions%20page.png)
 
 ---
 
