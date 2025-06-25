@@ -61,7 +61,7 @@ Understand customer behavior, demographic distribution, and repeat purchase patt
 - **Peak Order Times:** Morning & Evening
 - **Top Cities:** Thrissur, Siliguri, Tirupati
 
-📸 **[[ Screenshot ](https://github.com/khushal728/Zepto_Case_Study_Dashboard/blob/main/Customer%20page.png)]**
+📸 ![ Screenshot ](https://github.com/khushal728/Zepto_Case_Study_Dashboard/blob/main/Customer%20page.png)
 
 ---
 
