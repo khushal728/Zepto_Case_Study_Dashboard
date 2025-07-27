@@ -5,7 +5,7 @@ This dashboard uncovers key business insights across **Sales, Customers, Product
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure.
 ```
 📂 Zepto_Dashboard/
 ├── Sales Page
