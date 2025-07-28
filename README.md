@@ -1,4 +1,4 @@
-# 📊 Zepto Power BI Dashboard
+# 📊 Zepto Power BI Dashboard.
 
 A comprehensive business intelligence dashboard built in **Power BI** for **Zepto – India’s 10-Minute Grocery Delivery App**.  
 This dashboard uncovers key business insights across **Sales, Customers, Products, and Transactions**, enabling strategic decision-making.
